@@ -1,4 +1,4 @@
-Berechnund ein pythagoreisches Tripel
+Berechnung ein pythagoreisches Tripel
 
 
 
